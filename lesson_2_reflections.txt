@@ -20,6 +20,11 @@ Seperating changes into multiple commits as needed.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branching is useful when working on stories that span mutiple logical commits
+or significantly diverge/break master. Untilately one should never be
+committing directly to master, but rather to a develop branch, then pulling
+branches out of develop for changes.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
