@@ -27,8 +27,36 @@ branches out of develop for changes.
 
 How do the diagrams help you visualize the branch structure?
 
+By creating a visial depiction of how a branching graph looks with commits.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging branches together coaleses the changes from the merged branches into a single commit.
+The graph shows the last commit on each merged branch as the parent of the merge commit as that is the case.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Auto:
+
+Pros:
+
+Fast merging
+Conservative conflict resolution
+
+Cons:
+
+Conservative conflict resolution?
+
+Manual
+
+Pros:
+
+None
+
+Cons:
+
+Slow
+Very prone to error
+
