@@ -33,7 +33,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would probably use another version control system. Without the idea
+    of VCS, it would be painful to colaborate in source code. Might just
+    have to invent a VCS.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
